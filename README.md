@@ -2,8 +2,6 @@
 
 A full-stack note-taking application built with the MERN stack (MongoDB, Express.js, React, and Node.js). It includes user authentication, protected routes, CRUD operations for notes, search and sorting, and API rate limiting.
 
-**Project status:** Learning project based on the original work by [Ivan Tran](https://github.com/IvanTran-2001). This repository is intended for learning and further development.
-
 ## Features
 
 - **Authentication:** User registration and login with JWT-based authentication.
